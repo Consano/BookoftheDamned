@@ -1,14 +1,14 @@
 ---
-title: Io Gaka
+title: Spark Bat
 publish: true
-tags: []
+tags:
+  - enemy
 ---
-![[IoGagka.png]]
 > [!note] Tenai
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!done] Weaknesses
-> - Incense
+> - Cold Iron
 
 > [!warning] Resistances
 > - 

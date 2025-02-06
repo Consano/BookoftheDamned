@@ -1,17 +1,18 @@
 ---
-title: Io Gaka
+title: Will-O-Wisp
 publish: true
-tags: []
+tags:
+  - enemy
 ---
-![[IoGagka.png]]
+![[Willowisp.png]]
 > [!note] Tenai
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!done] Weaknesses
-> - Incense
+> - 
 
 > [!warning] Resistances
-> - 
+> - Magic Immune
 
 > [!danger]
 > - 
