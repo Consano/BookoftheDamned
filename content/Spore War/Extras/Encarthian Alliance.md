@@ -1,3 +1,9 @@
+---
+title: Encarthian Alliance
+publish: true
+tags:
+---
+
 1. Writ of non-aggression:
 	No nation will take aggressive actions against other nations
 2. Mutual Aid:

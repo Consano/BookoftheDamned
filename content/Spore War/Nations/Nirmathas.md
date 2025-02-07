@@ -12,5 +12,6 @@ publish: true
 > [!abstract] Notes
 > - At war with [[Molthune]].
 > - Was previously part of [[Molthune]] before leaving, leading to the war.
+> - Had a previous war with Oprak
 
 Relationship:1

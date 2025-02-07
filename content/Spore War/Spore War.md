@@ -12,6 +12,7 @@ tags:
 	- [[Undead Horned Dragon]]
 	- [[Undead Knight of Last Wall]]
 - **Extras**
+	- [[Current Agreements]]
 	- [[Encarthian Alliance]]
 - **Nations**
 	- [[Druma]]
@@ -34,6 +35,7 @@ tags:
 	- **Molthun**
 		- [[General Lord Walder Reskit]]
 	- **Nirmathas**
+		- [[Lithania]]
 		- [[Ranger Aromina Yasgon]]
 	- **Razmiran**
 		- [[Alzerius]]

@@ -1,7 +1,7 @@
 ---
-title: Dalamian
+title: Lithania
 publish: true
-tags: []
+tags:
 ---
 
 ### Description
@@ -9,6 +9,6 @@ tags: []
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!abstract] Notes
-> - Cousin of the [[Queen Telandia Edasseril | Queen]] and member of the royal guard.
-> - Hosted a garden party at the end of day 2
+> - Challenged the part to a game of archery
+> - One of [[Ranger Aromina Yasgon]]'s soldiers
 
