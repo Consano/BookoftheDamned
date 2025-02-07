@@ -11,3 +11,4 @@ tags: []
 > [!abstract] Notes
 > - Priest of the twelfth step
 > - From the town of Xer, high ranking priest
+> - Elf

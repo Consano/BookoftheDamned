@@ -33,8 +33,8 @@ tags:
 		- [[Dalamian]]
 		- [[Klorinth]]
 		- [[Queen Telandia Edasseril]]
-	- **Molthun**
-		- [[General Lord Walder Reskit]]
+	- **Molthune**
+		- [[Admiral Lord Walder Reskit]]
 	- **Nirmathas**
 		- [[Lithania]]
 		- [[Ranger Aromina Yasgon]]

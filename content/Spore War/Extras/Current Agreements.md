@@ -7,14 +7,17 @@ tags:
 1. 1,2,3 25% trading tax
 
 #### [[Knights of Lastwall]]
-2. 
+1. 1,2,3,4
 
 #### [[Molthune]]
-3. 1,2,3 if we get 3 non [[Nirmathas]]/[[Kyonin]] nations to agree
+2. 1,2,3 if we get 3 non [[Nirmathas]]/[[Kyonin]] nations to agree
 
 #### [[Nirmathas]]
-4. 1,2,4
+3. 1,2,4
 
 #### [[Ustalav]]
-1. 1
+4. 1
+
+#### [[Razmiran]]
+5. 1,2,4
 

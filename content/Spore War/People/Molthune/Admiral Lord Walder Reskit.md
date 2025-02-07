@@ -1,7 +1,7 @@
 ---
-title: General Lord Walder Reskit
+title: Admiral Lord Walder Reskit
 publish: true
-tags: []
+tags:
 ---
 
 ### Description
