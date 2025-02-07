@@ -14,6 +14,7 @@ tags:
 - **Extras**
 	- [[Current Agreements]]
 	- [[Encarthian Alliance]]
+	- [[Points]]
 - **Nations**
 	- [[Druma]]
 	- [[Knights of Lastwall]]

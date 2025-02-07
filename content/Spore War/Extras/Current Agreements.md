@@ -16,5 +16,5 @@ tags:
 4. 1,2,4
 
 #### [[Ustalav]]
-5. 1 2,3 if successful at games
+1. 1
 
