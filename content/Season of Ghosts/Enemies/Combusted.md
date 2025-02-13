@@ -1,8 +1,7 @@
 ---
 title: Combusted
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Combusted.png]]
 > [!note] Tenai

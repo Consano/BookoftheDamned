@@ -1,8 +1,7 @@
 ---
 title: <% tp.file.title %>
 publish: false
-tags:
-  - enemy
+tags: []
 ---
 ![[]]
 > [!note] Tenai
