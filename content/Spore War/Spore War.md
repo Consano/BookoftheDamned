@@ -8,13 +8,15 @@ tags:
 - **BBEG**
 	- [[Tar-Baphon]]
 - **Enemies**
+	- [[Delvarnis]]
 	- [[Greater Shadows]]
+	- [[Omox]]
 	- [[Undead Horned Dragon]]
 	- [[Undead Knight of Last Wall]]
+	- [[Vintalax]]
 - **Extras**
 	- [[Current Agreements]]
 	- [[Encarthian Alliance]]
-	- [[Points]]
 - **Nations**
 	- [[Druma]]
 	- [[Knights of Lastwall]]
