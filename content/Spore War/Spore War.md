@@ -10,6 +10,7 @@ tags:
 - **Enemies**
 	- [[Delvarnis]]
 	- [[Greater Shadows]]
+	- [[Grizzer]]
 	- [[Omox]]
 	- [[Undead Horned Dragon]]
 	- [[Undead Knight of Last Wall]]

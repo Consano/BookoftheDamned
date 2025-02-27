@@ -1,20 +1,13 @@
 ---
-title: What that tongue do
-publish: false
-tags: []
+title: Xin Yui
+publish: true
+tags:
 ---
-![[Whatthattoungedo.png]]
+
+### Description
 > [!note] Tenai
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
-> [!done] Weaknesses
-> - 
-
-> [!warning] Resistances
-> - 
-
-> [!danger]
-> - 
-
 > [!abstract] Notes
-> - 
+> - Desciple of [[Zhi Hui]]
+

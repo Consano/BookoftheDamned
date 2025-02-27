@@ -1,8 +1,9 @@
 ---
-title: The Chewer
-publish: true
-tags:
+title: Sojiruh
+publish: false
+tags: []
 ---
+![[Sojiruh.png]]
 > [!note] Tenai
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
@@ -16,4 +17,4 @@ tags:
 > - 
 
 > [!abstract] Notes
-> - Used to be a desciple of [[Kugaptee]] and now try's to chop down the great tree
+> - 
