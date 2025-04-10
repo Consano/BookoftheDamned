@@ -7,11 +7,18 @@ tags:
 %% Begin Waypoint %%
 - **BBEG**
 	- [[Tar-Baphon]]
+	- [[Treerazer]]
 - **Enemies**
 	- [[Delvarnis]]
+	- [[Derghodaemon]]
 	- [[Greater Shadows]]
 	- [[Grizzer]]
+	- [[Isqulug]]
+	- [[Lukarazyll]]
 	- [[Omox]]
+	- [[Sin Mold]]
+	- [[Tithe Keepers]]
+	- [[Tyrano-sporus]]
 	- [[Undead Horned Dragon]]
 	- [[Undead Knight of Last Wall]]
 	- [[Vintalax]]
@@ -45,6 +52,7 @@ tags:
 		- [[Alzerius]]
 	- **Ustalav**
 		- [[Clavance Ordranti]]
+- [[Resources]]
 - **The Party**
 	- [[Drazik Sdrazil]]
 	- [[Invoker of Traditions]]

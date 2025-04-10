@@ -6,4 +6,5 @@ tags:
 
 | Hope | Security | Food | Research | Teahouse |
 | ---- | -------- | ---- | -------- | -------- |
-| 8    | 8        | 6    | 8        | Done     |
+| 18   | 19       | 24   | 3        | Done     |
+-13
